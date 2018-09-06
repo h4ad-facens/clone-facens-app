@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_portal"
+        android:icon="@drawable/ic_school_black_24dp"
+        android:title="@string/portal" />
+
+    <item
+        android:id="@+id/navigation_eventos"
+        android:icon="@drawable/ic_insert_invitation_black_24dp"
+        android:title="@string/eventos" />
+
+    <item
+        android:id="@+id/navigation_notificacoes"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/notifica_es" />
+
+</menu>
